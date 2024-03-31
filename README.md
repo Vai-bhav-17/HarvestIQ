@@ -1,4 +1,4 @@
-# HarvestIQ Readme
+# HarvestIQ 
 
 Welcome to HarvestIQ, your one-stop solution for all farming needs!
 
