@@ -5,6 +5,9 @@ Welcome to HarvestIQ, your one-stop solution for all farming needs!
 ## Overview
 HarvestIQ is an online platform designed to assist farmers in every stage of production to enhance productivity and efficiency. From planning and cultivation to harvest and post-harvest management, HarvestIQ offers a range of tools, resources, and expert guidance to help farmers maximize their yields and profitability.
 
+![image](https://github.com/Vai-bhav-17/HarvestIQ/assets/134094319/49bcbf32-a573-4d84-8621-19e72efca6b4)
+
+
 ## Features
 ### Crop Recommendation
 - Get personalized crop recommendations based on your soil's Nitrogen, Phosphorus, Potassium (N,P,K) values.
